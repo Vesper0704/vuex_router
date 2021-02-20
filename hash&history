@@ -1,0 +1,7 @@
+
+改变url而不重新刷新页面
+location.hash(url)
+
+history.pushState({},'',url)
+history.go(-1) 回到上一个页面 等价于history.back()
+
