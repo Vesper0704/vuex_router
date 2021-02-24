@@ -1,4 +1,6 @@
-# vue_router
+# vuex_router
+
+介绍了vue-router和Vuex状态管理工具的基本用法。
 
 ## Project setup
 ```
